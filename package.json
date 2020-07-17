@@ -20,7 +20,7 @@
     "body-parser": "^1.18.3",
     "ect": "^0.5.9",
     "express": "^4.16.4",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "log-timestamp": "^0.3.0",
     "request": "^2.88.0"
   }
